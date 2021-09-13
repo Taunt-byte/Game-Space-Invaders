@@ -20,3 +20,8 @@ Para começar esse projeto precisa primeiramente se instalar a linguagem python 
 
 Depois de seguir essa lista de objetivos o processo de construção do game fica bem mais facil e funcional
 
+## Referencia
+
+O codigo usado nesse projeto tem como base o video abaixo:
+
+<code>https://www.youtube.com/watch?v=Q-__8Xw9KTM</code>
