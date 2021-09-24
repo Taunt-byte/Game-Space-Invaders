@@ -6,6 +6,7 @@ Status: Em desenvolvimento
 
 + Aprender mais sobre python
 + Aprender mais sobre a biblioteca pygame
+
 ## Como começar
 
 Para começar esse projeto precisa primeiramente se instalar a linguagem python e sua biblioteca focada no desenvolvimento de games pygame e para fazer isso basta seguir a lista abaixo:
